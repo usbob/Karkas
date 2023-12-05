@@ -1,0 +1,7 @@
+*.bak
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.imgcache
+*.opt
+*.nw
